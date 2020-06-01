@@ -1,0 +1,39 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# npm lock file
+package-lock.json
+
+# Compiled output
+*/dist
+*/tmp
+
+# Dependencies
+/node_modules
+/bower_components
+
+# Docs
+*/docs
+
+# Environment files for deployment
+*/.env*
+*/deploy-docs-config.json
+
+# Mac
+.DS_Store
+
+# Misc
+*/.sass-cache
+*/connect.lock
+
+# Coverage output
+*/coverage.json
+*/coverage/*
+
+# Edit swap files
+*.swp
+
+# Temp
+*~
+*.orig
+*.log
+**/.vscode
