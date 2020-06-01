@@ -1,1 +1,1 @@
-export { default } from 'ember-power-select/components/power-select';
+export { default } from 'zy-ember-power-select/components/power-select';
