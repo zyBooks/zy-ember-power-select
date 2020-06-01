@@ -126,6 +126,6 @@
     "test": "ember test",
     "test:all": "ember try:each"
   },
-  "version": "2.3.5",
+  "version": "2.3.6",
   "main": "index.js"
 }
